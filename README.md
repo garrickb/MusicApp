@@ -6,3 +6,5 @@ To add songs to the song queue, just find the URL of the soundcloud song you wis
 ##Screenshots
 ![Screenshot](http://i.imgur.com/C1DcPQ8.jpg)
 ![Screenshot 2](http://i.imgur.com/dO6ZpI3.jpg)
+###Responsive design
+![Screenshot 3](http://i.imgur.com/U7NzLEm.png)
